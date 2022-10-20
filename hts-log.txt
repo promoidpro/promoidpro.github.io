@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Oct 2022 05:17:13 at https://pakaijimat.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pakaijimat.xyz/ -O1 "D:\New folder\toko elektronik" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:18:31	Error: 	"Not Found" (404) at link https://pakaijimat.xyz/cdn-cgi/l/email-protection (from https://pakaijimat.xyz/)
+05:18:31	Error: 	"Not Found" (404) at link https://pakaijimat.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js (from https://pakaijimat.xyz/)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/owl.video.play.png (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/owl.carousel.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/AjaxLoader.gif (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/owl.theme.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/bigplay.svg (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/bigplay.png (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/background.png (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/loading.gif (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/controls.svg (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/controls.png (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/jumpforward.png (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+05:18:31	Error: 	"Not Found" (404) at link https://www.nationalelektronik.com/wp-content/themes/freshair/css/skipback.png (from https://www.nationalelektronik.com/wp-content/themes/freshair/css/mediaelementplayer.css?ver=e3757924b3acdf653fbd9ad6b949b59b)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 18 seconds : 147 links scanned, 134 files written (5816953 bytes overall) [4115739 bytes received at 52765 bytes/sec], 5665254 bytes transferred using HTTP compression in 135 files, ratio 67%, 18.3 requests per connection
+(12 errors, 0 warnings, 0 messages)
